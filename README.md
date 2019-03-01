@@ -9,3 +9,4 @@ Implements the following:
 - Add/Delete functionality for list items (coming soon)
 - Reset list items for a new day (coming soon)
 
+(Note: this was created before I learned about SQLite databases - will probably re-work the set up accordingly)
